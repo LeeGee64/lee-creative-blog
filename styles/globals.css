@@ -11,6 +11,16 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: rgb(0,0,180);
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
 * {
   box-sizing: border-box;
 }
