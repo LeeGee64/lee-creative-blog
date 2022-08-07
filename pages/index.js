@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         <p>My name is {' '}
         
           <Link href=".../posts/introductions">
-            <a>Lee Gill</a>
+            <a className={utilStyles.contentLink}>Lee Gill</a>
           </Link>
         
           {' '}, a software designer, writer, activist, and sorcerer 
@@ -39,7 +39,11 @@ export default function Home({ allPostsData }) {
         <p>The hope is that you'll find a piece here that motivates you 
           to look for the miracles and lessons in your own journey. 
           And if you have any suggestions on topics for the blog, please reach out to me 
-          via the links the footer!</p>
+          via the links in the {' '} 
+        
+          <Link href= "#footer">
+            <a className= {utilStyles.contentLink}>footer!</a>
+          </Link></p>
 
         <p>Thanks for stopping by!</p>
       </section>

@@ -59,7 +59,7 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
-      <footer className={styles.footer}>
+      <footer id="footer" className={styles.footer}>
         <a className={utilStyles.logo} href="https://twitter.com/LeeGee64">
         <Image
               src="/Images/logos/2021-Twitter-logo-blue.png"

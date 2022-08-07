@@ -46,6 +46,11 @@
   .listItem {
     margin: 0 0 1.25rem;
   }
+
+  .contentLink {
+    font-style:italic;
+    color:blue; 
+  }
   
   .lightText {
     color: #666;
@@ -65,5 +70,5 @@
   }
 
   .logo {
-    margin: 1.5rem;
+    margin: 1rem;
   }
