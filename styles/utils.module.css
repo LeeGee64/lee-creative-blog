@@ -69,6 +69,14 @@
     margin: 1rem;
   }
 
+  .articleContent h3 {
+    padding: 0.8rem;
+    font-weight: 700;
+    font-style: italic;
+    color: rgb(100,0,100);
+    letter-spacing: 0.1rem;
+  }
+
   .logo {
     margin: 1rem;
   }
