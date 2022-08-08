@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         <p>Welcome to <strong>Mind Canvass</strong>: a free-form blog built for 
           inner and outer exploration!</p>
 
-        <p>My name is {' '}
+        <p>My name is{' '}
         
           <Link href=".../posts/introductions">
             <a className={utilStyles.contentLink}>Lee Gill</a>
