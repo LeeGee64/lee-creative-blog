@@ -1,34 +1,24 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## The Process
 
-First, run the development server:
+I was able to complete this site by following the Blog tutorial available from Next.js. The idea to focus the blog on thought exercises and mental health came from my own effort to develop better understanding of myself and the world around me. 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Optimization
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- *Content Diversification:* As my skills with React grow, I would like to include more complex content like custom videos or other graphics. This will be helpful to explain more abstract concepts like lateral thinking or transcendental meditation. 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- *Content Management System Integration:* To make article and entry creation easier, it would be good to include a CMS that integrates will with Next.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Lessons Learned
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- *Next.js Basics:* At the beginning of this project, I only had a basic grasp of React Native and no knowledge of any React frameworks. This blog was an excellent gateway into learning finer points of React as well as the ways Next.js manages content to improve UX. 
 
-## Learn More
+- *Vercel Hosting:* After learning Next.js, familiarizing myself with Vercel's deployment was my next step. Setting up the blog for production was easy, and I was especially impressed with how easy it was to track stages of development on the platform. This convenience convinced to me host all future projects on Vercel.
 
-To learn more about Next.js, take a look at the following resources:
+## Resources Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
+- Vercel Hosting
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
